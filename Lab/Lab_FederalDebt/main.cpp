@@ -2,7 +2,10 @@
  * File:   main.cpp
  * Author: Gvain Mullins
  * Created on Janaury 10, 2017, 12:29 PM
- * Purpose: Federal Deficit
+ * Purpose: Federal Debt
+ * https://www.treasurydirect.gov/govt/reports/pd/histdebt/histdebt_histo5.htm
+ * http://www.cnsnews.com/news/article/terence-p-jeffrey/federal-debt-fy-2016-jumped-142282704745246
+ * http://www.census.gov/popest/about/terms.html
  */
 
 //System Libraries Here

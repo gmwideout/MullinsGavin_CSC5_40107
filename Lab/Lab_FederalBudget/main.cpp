@@ -3,6 +3,9 @@
  * Author: Gavin Mullins
  * Created on January 10, 2017, 12:05 PM
  * Purpose:  Federal Budget for Military and NASA
+ * http://federal-budget.insidegov.com/l/119/2016-Estimate
+ * https://theintercept.com/2016/08/19/nato-weapons-industry/
+ * https://www.nasa.gov/content/reach-for-new-heights-nasa-budget-unveiled-for-fiscal-year-2016
  */
 
 //System Libraries Here
